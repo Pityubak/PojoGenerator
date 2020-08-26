@@ -1,6 +1,6 @@
 # PojoGenerator
 
-This is annotation processor. Maybe it is redundant and unneccesary, but my goal was a deeper understanding and learning, not a creation of "something useful".
+This is annotation processor. Maybe it is redundant and unneccesary, but my goal was a deeper understanding and learning, not a creating of "something useful".
 
 ## How it works?
 
